@@ -11,9 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 Hello everyone!
 
-I am Sridhar Babu 
+I am Sridhar Babu
+
 Engineer - Blogger - Cinematographer
+
 I eat Big Data and breathe ML/AI. 
+
 Looking for collaboration on different projects
 
 
