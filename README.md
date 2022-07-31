@@ -13,10 +13,10 @@ Hello everyone!
 
 I am Sridhar Babu
 
-Engineer - Blogger - Cinematographer
+Engineer, also passionate about Blogging, Photography, MotorRacing
 
-I eat Big Data and breathe ML/AI. 
+Big data and Machine learning are current domains of work.
 
-Looking for collaboration on different projects
+Eagerly looking for collaboration on different projects
 
 
